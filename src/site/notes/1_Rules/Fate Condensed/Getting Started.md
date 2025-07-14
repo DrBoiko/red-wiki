@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-rules/fate-condensed/getting-started/"}
+{"dg-publish":true,"permalink":"/1-rules/fate-condensed/getting-started/","tags":["gardenEntry"]}
 ---
 
 
